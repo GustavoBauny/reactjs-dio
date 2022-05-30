@@ -1,1 +1,1 @@
-# Projetos criados com ReactJs no curso TQI Fullstack Developer do DIO.
+# Projetos criados com ReactJS no curso TQI Fullstack Developer do DIO.
